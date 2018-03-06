@@ -35,7 +35,7 @@ repo.versions:
     "1.2-latest": "1.2.0"
     "1.3-latest": "1.3.0"
 
-repository.deps:
+repo.deps:
     mynewt-repo-02:
         type: git
         url: 'git@github.com:ccollins476ad/mynewt-repo-02.git'
